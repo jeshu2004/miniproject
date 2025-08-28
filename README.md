@@ -7,7 +7,7 @@ A small component library featuring reusable and accessible UI components (Input
 - **GitHub Repository**: https://github.com/<your-username>/<repo-name>
 - **Storybook Preview**:
   - Chromatic: https://www.chromatic.com/build?appId=<your-app-id>
-  - OR Vercel: https://<your-vercel-deployment>.vercel.app
+
 
 ## Project Overview
 This project implements reusable UI components (`InputField`, `DataTable`) with responsive design and accessibility in mind.  
